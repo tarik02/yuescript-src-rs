@@ -1,0 +1,3 @@
+[submodule "yuescript"]
+	path = yuescript
+	url = https://github.com/pigpigyyy/Yuescript.git

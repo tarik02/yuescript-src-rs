@@ -1,0 +1,15 @@
+[package]
+name = "yuescript-src"
+version = "0.13.6"
+authors = ["Tarik02 <Taras.Fomin@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/Tarik02/yuescript-src-rs"
+keywords = ["lua", "yue", "yuescript"]
+readme = "README.md"
+license = "MIT"
+description = """
+Sources of Yuescript and logic to build them.
+"""
+
+[dependencies]
+cc = "1.0.54"
